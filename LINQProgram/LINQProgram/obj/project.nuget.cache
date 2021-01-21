@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5aprH//7acCGPOFL7/uvArjvRHFzvHC0Ybn+9bztiFrZehZqGkm0l03CkzaVeWSF2z8yfL2lr3+NdV6vEBEaoQ==",
+  "dgSpecHash": "G5s6GsaFaARLkUCIdmLhq6z8aBfv3Au91UoogckefXLrzVFfMKT1IHF8nw5DsvGyj2FoD7AtDoVXl5ENWmMOqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\AlanY\\Documents\\Projects\\Code Fellows 401\\lab09-LINQ\\LINQProgram\\LINQProgram\\LINQProgram.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AlanY\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

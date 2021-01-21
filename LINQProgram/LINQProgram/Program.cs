@@ -1,4 +1,6 @@
 ﻿using System;
+using Newtonsoft.Json;
+using System.IO;
 
 namespace LINQProgram
 {
@@ -6,7 +8,8 @@ namespace LINQProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string path = "../../../data.json";
+            Console.WriteLine(JsonConvert.SerializeObject(File.ReadAllLines(path)));
         }
     }
 }
